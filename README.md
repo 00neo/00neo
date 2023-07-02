@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @00neo
+- 👋 Hi, I’m JuiceCode aka ( Kode )
 - 👀 I’m interested in coding especially in webcoding and crypto
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate with smart people
